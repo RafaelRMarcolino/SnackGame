@@ -1,2 +1,2 @@
-# snackeGame
-# SnackGame
+# Snacke Game
+# Snack Game
